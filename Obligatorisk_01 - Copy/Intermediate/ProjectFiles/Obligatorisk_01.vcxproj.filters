@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Obligatorisk_01.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EE56059F-339B-4A3B-9EDF-27C355AEEE1E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Obligatorisk_01.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Obligatorisk_01Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{501F6F71-4C94-4EC6-A90D-0BD420E667A2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Obligatorisk_01">
+      <UniqueIdentifier>{8F90694B-1650-4318-8C79-19E8ADACC2FE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Obligatorisk_01\Obligatorisk_01.Build.cs">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Obligatorisk_01\Obligatorisk_01.cpp">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Obligatorisk_01\Obligatorisk_01.h">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Obligatorisk_01\Obligatorisk_01GameModeBase.cpp">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Obligatorisk_01\Obligatorisk_01GameModeBase.h">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Obligatorisk_01\shipPawn.h">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Obligatorisk_01\Alien.h">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Obligatorisk_01\Bullet.h">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Obligatorisk_01\shipPawn.cpp">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Obligatorisk_01\Alien.cpp">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Obligatorisk_01\Bullet.cpp">
+      <Filter>Source\Obligatorisk_01</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

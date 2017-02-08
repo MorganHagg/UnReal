@@ -60,3 +60,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.db
+Obligatorisk_01 - Copy/Binaries/Win64/Obligatorisk_01Editor.target
+Obligatorisk_01 - Copy/Binaries/Win64/UE4Editor-Obligatorisk_01.pdb
+Obligatorisk_01 - Copy/Binaries/Win64/UE4Editor.modules

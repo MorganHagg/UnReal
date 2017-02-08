@@ -1,0 +1,22 @@
+﻿  Performing full C++ include scan (building a new target)
+  Creating makefile for Obligatorisk_01Editor (no existing makefile)
+  Parsing headers for Obligatorisk_01Editor
+    Running UnrealHeaderTool "D:\UnReal\Obligatorisk_01\Obligatorisk_01.uproject" "D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\Obligatorisk_01Editor\Development\Obligatorisk_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Obligatorisk_01Editor in 4,8843198 seconds
+  Deleting old hot reload file: "D:\UnReal\Obligatorisk_01\Binaries\Win64\UE4Editor-Obligatorisk_01-3317.dll".
+  Deleting old hot reload file: "D:\UnReal\Obligatorisk_01\Binaries\Win64\UE4Editor-Obligatorisk_01-3317.pdb".
+  Deleting old hot reload file: "D:\UnReal\Obligatorisk_01\Binaries\Win64\UE4Editor-Obligatorisk_01-5131.dll".
+  Deleting old hot reload file: "D:\UnReal\Obligatorisk_01\Binaries\Win64\UE4Editor-Obligatorisk_01-5131.pdb".
+  Deleting old hot reload file: "D:\UnReal\Obligatorisk_01\Binaries\Win64\UE4Editor-Obligatorisk_01-5557.dll".
+  Deleting old hot reload file: "D:\UnReal\Obligatorisk_01\Binaries\Win64\UE4Editor-Obligatorisk_01-5557.pdb".
+  Deleting old hot reload file: "D:\UnReal\Obligatorisk_01\Binaries\Win64\UE4Editor-Obligatorisk_01-5821.dll".
+  Deleting old hot reload file: "D:\UnReal\Obligatorisk_01\Binaries\Win64\UE4Editor-Obligatorisk_01-5821.pdb".
+  Performing 4 actions (4 in parallel)
+  Obligatorisk_01.generated.cpp
+  shipPawn.cpp
+  Bullet.cpp
+D:\UnReal\Obligatorisk_01\Source\Obligatorisk_01\shipPawn.cpp(71): warning C4458: declaration of 'InputComponent' hides class member
+  C:\Program Files (x86)\Epic Games\4.14\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(319): note: see declaration of 'AActor::InputComponent'
+  [4/4] Link UE4Editor-Obligatorisk_01.dll
+     Creating library D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Obligatorisk_01.lib and object D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Obligatorisk_01.exp
+  Total build time: 14,47 seconds

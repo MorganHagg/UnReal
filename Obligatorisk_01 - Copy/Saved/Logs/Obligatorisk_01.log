@@ -1,0 +1,1769 @@
+﻿Log file open, 02/03/17 14:24:03
+LogInit:Display: Running engine for game: Obligatorisk_01
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(770799865) SRandInit(770799865).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.126836
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.02.03-13.24.04:254][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.03-13.24.04:254][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.02.03-13.24.04:347][  0]LogInit: Computer: MORGANS-PC
+[2017.02.03-13.24.04:347][  0]LogInit: User: Morgan
+[2017.02.03-13.24.04:347][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.02.03-13.24.04:347][  0]LogInit: High frequency timer resolution =3.914060 MHz
+[2017.02.03-13.24.04:348][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2017.02.03-13.24.04:348][  0]LogMemory: Platform Memory Stats for Windows
+[2017.02.03-13.24.04:348][  0]LogMemory: Process Physical Memory: 264.66 MB used, 264.66 MB peak
+[2017.02.03-13.24.04:348][  0]LogMemory: Process Virtual Memory: 262.77 MB used, 262.77 MB peak
+[2017.02.03-13.24.04:348][  0]LogMemory: Physical Memory: 6033.51 MB used,  26692.57 MB free, 32726.08 MB total
+[2017.02.03-13.24.04:348][  0]LogMemory: Virtual Memory: 676.43 MB used,  26692.57 MB free, 134217728.00 MB total
+[2017.02.03-13.24.04:380][  0]LogTextLocalizationManager: No translations for ('nb-NO') exist, falling back to 'en' for localization and internationalization data.
+[2017.02.03-13.24.05:511][  0]LogD3D11RHI: D3D11 adapters:
+[2017.02.03-13.24.06:504][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2017.02.03-13.24.06:504][  0]LogD3D11RHI:       8151/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.02.03-13.24.06:507][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.02.03-13.24.06:507][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.02.03-13.24.06:507][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.02.03-13.24.06:513][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.02.03-13.24.06:513][  0]LogD3D11RHI:     GPU DeviceId: 0x13da (for the marketing name, search the web for "GPU Device Id")
+[2017.02.03-13.24.06:513][  0]LogWindows: EnumDisplayDevices:
+[2017.02.03-13.24.06:513][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2017.02.03-13.24.06:514][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2017.02.03-13.24.06:514][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2017.02.03-13.24.06:514][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2017.02.03-13.24.06:514][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.02.03-13.24.06:514][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2017.02.03-13.24.06:514][  0]LogD3D11RHI:   Driver Version: 376.33 (internal:21.21.13.7633, unified:376.33)
+[2017.02.03-13.24.06:514][  0]LogD3D11RHI:      Driver Date: 12-11-2016
+[2017.02.03-13.24.06:514][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.02.03-13.24.07:507][  0]LogD3D11RHI: Async texture creation enabled
+[2017.02.03-13.24.07:964][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.02.03-13.24.07:965][  0]LogShaderCompilers: Guid format shader working directory is 20 characters bigger than the processId version (D:/UnReal/Obligatorisk_01/Intermediate/Shaders/WorkingDirectory/12256/).
+[2017.02.03-13.24.07:965][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/morga/AppData/Local/Temp/UnrealShaderWorkingDir/AD4E301C42619CF5CA628DA183D6B242/'.
+[2017.02.03-13.24.07:965][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.02.03-13.24.09:916][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.02.03-13.24.10:016][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.02.03-13.24.10:124][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.02.03-13.24.10:243][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.02.03-13.24.10:350][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.02.03-13.24.10:456][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.02.03-13.24.10:552][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.02.03-13.24.10:660][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.02.03-13.24.10:748][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.02.03-13.24.10:841][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.02.03-13.24.10:932][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.02.03-13.24.11:019][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.02.03-13.24.11:107][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.02.03-13.24.11:193][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.02.03-13.24.11:281][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.02.03-13.24.11:461][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.02.03-13.24.11:461][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.02.03-13.24.11:538][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.02.03-13.24.11:681][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.02.03-13.24.11:740][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.02.03-13.24.11:829][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.02.03-13.24.11:914][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.02.03-13.24.12:000][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.02.03-13.24.12:087][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.02.03-13.24.12:087][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.02.03-13.24.12:784][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.02.03-13.24.12:865][  0]LogDerivedDataCache: Loaded boot cache 0.08s 50MB C:/Users/morga/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.03-13.24.12:865][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/morga/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.02.03-13.24.12:866][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnReal/Obligatorisk_01/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.02.03-13.24.12:866][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.02.03-13.24.12:866][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnReal/Obligatorisk_01/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.02.03-13.24.12:866][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.02.03-13.24.12:896][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.02.03-13.24.12:908][  0]LogDerivedDataCache: Using Local data cache path C:/Users/morga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.02.03-13.24.13:282][  0]LogInit: Selected Device Profile: [Windows]
+[2017.02.03-13.24.13:286][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.02.03-13.24.13:653][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.02.03-13.24.13:731][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.02.03-13.24.13:809][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.02.03-13.24.13:809][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.02.03-13.24.13:809][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.02.03-13.24.14:694][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: obligatorisk_01, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3668682570
+[2017.02.03-13.24.14:771][  0]LogAssetRegistry: FAssetRegistry took 0.0221 seconds to start up
+[2017.02.03-13.24.14:861][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 1 prioritized culture(s) in 0.052953 seconds
+[2017.02.03-13.24.14:869][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.02.03-13.24.14:869][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.02.03-13.24.14:869][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.02.03-13.24.14:971][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.02.03-13.24.16:362][  0]LogSlate: Using Freetype 2.6.0
+[2017.02.03-13.24.16:362][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.03-13.24.16:362][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.02.03-13.24.17:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.02.03-13.24.17:898][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.02.03-13.24.18:523][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.02.03-13.24.19:236][  0]SourceControl: Info Source control is disabled
+[2017.02.03-13.24.19:313][  0]SourceControl: Info Source control is disabled
+[2017.02.03-13.24.19:401][  0]SourceControl: Info Source control is disabled
+[2017.02.03-13.24.19:489][  0]SourceControl: Info Source control is disabled
+[2017.02.03-13.24.21:811][  0]LogEngine: Initializing Engine...
+[2017.02.03-13.24.21:812][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.02.03-13.24.22:269][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.02.03-13.24.22:285][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.24.22:340][  0]LogInit: FAudioDevice initialized.
+[2017.02.03-13.24.22:378][  0]LogDerivedDataCache: Saved boot cache 0.04s 50MB C:/Users/morga/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.02.03-13.24.22:393][  0]LogInit: Texture streaming: Enabled
+[2017.02.03-13.24.22:797][  0]LogInit: Transaction tracking system initialized
+[2017.02.03-13.24.23:497][  0]BlueprintLog: New page: Editor Load
+[2017.02.03-13.24.25:397][  0]LocalizationService: Info Localization service is disabled
+[2017.02.03-13.24.26:676][  0]LogConsoleResponse:Display: 
+[2017.02.03-13.24.26:941][  0]LogFileCache: Scanning file cache for directory 'D:/UnReal/Obligatorisk_01/Content/' took 0.01s
+[2017.02.03-13.24.26:941][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.02.03-13.24.26:941][  0]LogCook:Display: Mobile HDR setting 1
+[2017.02.03-13.24.28:660][  0]SourceControl: Info Source control is disabled
+[2017.02.03-13.24.28:660][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.02.03-13.24.28:660][  0]LightingResults: New page: Lighting Build
+[2017.02.03-13.24.28:735][  0]MapCheck: New page: Map Check
+[2017.02.03-13.24.28:735][  0]LightingResults: New page: Lighting Build
+[2017.02.03-13.24.29:154][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.24.29:155][  0]LogActorComponent: RegisterComponentWithWorld: (/Temp/Untitled_1.Untitled_1:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2017.02.03-13.24.29:163][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.02.03-13.24.29:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.02.03-13.24.29:239][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 70.048ms to complete.
+[2017.02.03-13.24.29:239][  0]LogFileHelpers: Loading map 'Template_Default' took 0.579
+[2017.02.03-13.24.29:479][  0]LogCollectionManager: Loaded 0 collections in 0.003499 seconds
+[2017.02.03-13.24.29:593][  0]LogFileCache: Scanning file cache for directory 'D:/UnReal/Obligatorisk_01/Saved/Collections/' took 0.01s
+[2017.02.03-13.24.29:593][  0]LogFileCache: Scanning file cache for directory 'D:/UnReal/Obligatorisk_01/Content/Developers/Morgan/Collections/' took 0.01s
+[2017.02.03-13.24.29:593][  0]LogFileCache: Scanning file cache for directory 'D:/UnReal/Obligatorisk_01/Content/Collections/' took 0.01s
+[2017.02.03-13.24.29:593][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000003 seconds
+[2017.02.03-13.24.29:613][  0]LogContentBrowser: Native class hierarchy populated in 0.0191 seconds. Added 2192 classes and 432 folders.
+[2017.02.03-13.24.29:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.02.03-13.24.29:690][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.02.03-13.24.29:692][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0019 seconds. Added 13 classes and 0 folders.
+[2017.02.03-13.24.29:812][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0018 seconds. Added 0 classes and 0 folders.
+[2017.02.03-13.24.29:880][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0023 seconds. Added 0 classes and 0 folders.
+[2017.02.03-13.24.30:030][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.02.03-13.24.30:041][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.02.03-13.24.30:146][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2017.02.03-13.24.30:146][  0]LogLoad: (Engine Initialization) Total time: 28.69 seconds
+[2017.02.03-13.24.30:146][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.17 seconds
+[2017.02.03-13.24.30:146][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.02.03-13.24.30:146][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.02.03-13.24.30:486][  0]LogOcInput: OculusInput pre-init called
+[2017.02.03-13.24.30:513][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.02.03-13.24.30:810][  0]LogRenderer: Reallocating scene render targets to support 2752x1984 NumSamples 1 (Frame:2).
+[2017.02.03-13.24.31:245][  2]LogAssetRegistry: Asset discovery search completed in 16.4965 seconds
+[2017.02.03-13.24.31:245][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.02.03-13.24.31:245][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
+[2017.02.03-13.25.19:285][558]Running C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe Obligatorisk_01 Win64 Development -editorrecompile "D:/UnReal/Obligatorisk_01/Obligatorisk_01.uproject" -invalidatemakefilesonly
+[2017.02.03-13.25.19:789][558]Invalidating makefiles only in this run.
+[2017.02.03-13.25.20:019][558]Recompiling Obligatorisk_01...
+[2017.02.03-13.25.20:020][558]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe Obligatorisk_01 -ModuleWithSuffix Obligatorisk_01 5131 Win64 Development -editorrecompile -canskiplink "D:/UnReal/Obligatorisk_01/Obligatorisk_01.uproject" ]
+[2017.02.03-13.25.34:714][558]CompilerResultsLog: New page: Compilation - Feb 3, 2017, 3:25:34 PM
+[2017.02.03-13.25.34:714][558]CompilerResultsLog: Info Performing full C++ include scan (hot reloading a new target)
+[2017.02.03-13.25.34:714][558]CompilerResultsLog: Info Creating makefile for hot reloading Obligatorisk_01 (no existing makefile)
+[2017.02.03-13.25.34:714][558]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.02.03-13.25.34:714][558]CompilerResultsLog: Info Parsing headers for Obligatorisk_01Editor
+[2017.02.03-13.25.34:714][558]CompilerResultsLog: Info   Running UnrealHeaderTool "D:\UnReal\Obligatorisk_01\Obligatorisk_01.uproject" "D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\Obligatorisk_01Editor\Development\Obligatorisk_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.02.03-13.25.34:715][558]CompilerResultsLog: Info Reflection code generated for Obligatorisk_01Editor in 5,5589066 seconds
+[2017.02.03-13.25.34:715][558]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2017.02.03-13.25.34:715][558]CompilerResultsLog: Info Obligatorisk_01.generated.cpp
+[2017.02.03-13.25.34:715][558]CompilerResultsLog: Info shipPawn.cpp
+[2017.02.03-13.25.34:715][558]CompilerResultsLog:Error: Error D:\UnReal\Obligatorisk_01\Source\Obligatorisk_01\shipPawn.cpp(30) : warning C4458: declaration of 'InputComponent' hides class member
+[2017.02.03-13.25.34:715][558]CompilerResultsLog: Info C:\Program Files (x86)\Epic Games\4.14\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h(319): note: see declaration of 'AActor::InputComponent'
+[2017.02.03-13.25.34:715][558]CompilerResultsLog: Info [3/3] Link UE4Editor-Obligatorisk_01-5131.dll
+[2017.02.03-13.25.34:715][558]CompilerResultsLog: Info    Creating library D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Obligatorisk_01-5131.lib and object D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Obligatorisk_01-5131.exp
+[2017.02.03-13.25.34:715][558]CompilerResultsLog: Info Total build time: 14,52 seconds
+[2017.02.03-13.25.34:715][558]LogMainFrame: MainFrame: Module compiling took 14.701 seconds
+[2017.02.03-13.25.34:826][558]LogClass: Could not find existing class shipPawn in package /Script/Obligatorisk_01 for HotReload, assuming new class
+[2017.02.03-13.25.34:830][558]LogContentBrowser: Native class hierarchy updated for 'Obligatorisk_01' in 0.0018 seconds. Added 2 classes and 2 folders.
+[2017.02.03-13.25.34:832][558]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.02.03-13.25.34:914][558]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 2194 classes and 434 folders.
+[2017.02.03-13.25.34:914][558]Display: HotReload took 14.9s.
+[2017.02.03-13.25.34:916][558]Warning: HotReload operation took 14.9s.
+[2017.02.03-13.25.35:872][558]LogVSAccessor:Warning: Couldn't goto line number '0' in 'D:/UnReal/Obligatorisk_01/Source/Obligatorisk_01/shipPawn.h'
+[2017.02.03-13.25.36:026][558]LogVSAccessor:Warning: Couldn't goto line number '0' in 'D:/UnReal/Obligatorisk_01/Source/Obligatorisk_01/shipPawn.cpp'
+[2017.02.03-13.25.36:048][558]LogHotReload: New module detected: UE4Editor-Obligatorisk_01-5131.dll
+[2017.02.03-13.25.36:089][559]LogHotReload: Starting Hot-Reload from IDE
+[2017.02.03-13.25.36:226][559]LogContentBrowser: Native class hierarchy updated for 'Obligatorisk_01' in 0.0020 seconds. Added 2 classes and 2 folders.
+[2017.02.03-13.25.36:228][559]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.02.03-13.25.36:249][559]LogContentBrowser: Native class hierarchy populated in 0.0169 seconds. Added 2194 classes and 434 folders.
+[2017.02.03-13.25.36:255][559]Display: HotReload took  0.2s.
+[2017.02.03-13.25.49:197][472]Running C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe Obligatorisk_01 Win64 Development -editorrecompile "D:/UnReal/Obligatorisk_01/Obligatorisk_01.uproject" -invalidatemakefilesonly
+[2017.02.03-13.25.49:700][472]Invalidating makefiles only in this run.
+[2017.02.03-13.25.50:141][472]Recompiling Obligatorisk_01...
+[2017.02.03-13.25.50:141][472]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe Obligatorisk_01 -ModuleWithSuffix Obligatorisk_01 5821 Win64 Development -editorrecompile -canskiplink "D:/UnReal/Obligatorisk_01/Obligatorisk_01.uproject" ]
+[2017.02.03-13.26.04:241][472]CompilerResultsLog: New page: Compilation - Feb 3, 2017, 3:26:04 PM
+[2017.02.03-13.26.04:241][472]CompilerResultsLog: Info Creating makefile for hot reloading Obligatorisk_01 (no existing makefile)
+[2017.02.03-13.26.04:241][472]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.02.03-13.26.04:241][472]CompilerResultsLog: Info Parsing headers for Obligatorisk_01Editor
+[2017.02.03-13.26.04:241][472]CompilerResultsLog: Info   Running UnrealHeaderTool "D:\UnReal\Obligatorisk_01\Obligatorisk_01.uproject" "D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\Obligatorisk_01Editor\Development\Obligatorisk_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.02.03-13.26.04:241][472]CompilerResultsLog: Info Reflection code generated for Obligatorisk_01Editor in 5,656472 seconds
+[2017.02.03-13.26.04:241][472]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2017.02.03-13.26.04:241][472]CompilerResultsLog: Info Obligatorisk_01.generated.cpp
+[2017.02.03-13.26.04:242][472]CompilerResultsLog: Info Alien.cpp
+[2017.02.03-13.26.04:242][472]CompilerResultsLog: Info [3/3] Link UE4Editor-Obligatorisk_01-5821.dll
+[2017.02.03-13.26.04:242][472]CompilerResultsLog: Info    Creating library D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Obligatorisk_01-5821.lib and object D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Obligatorisk_01-5821.exp
+[2017.02.03-13.26.04:242][472]CompilerResultsLog: Info Total build time: 13,92 seconds
+[2017.02.03-13.26.04:242][472]LogMainFrame: MainFrame: Module compiling took 14.106 seconds
+[2017.02.03-13.26.04:360][472]LogClass: Could not find existing class Alien in package /Script/Obligatorisk_01 for HotReload, assuming new class
+[2017.02.03-13.26.04:366][472]LogContentBrowser: Native class hierarchy updated for 'Obligatorisk_01' in 0.0018 seconds. Added 3 classes and 2 folders.
+[2017.02.03-13.26.04:368][472]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.02.03-13.26.04:415][472]LogContentBrowser: Native class hierarchy populated in 0.0175 seconds. Added 2195 classes and 434 folders.
+[2017.02.03-13.26.04:416][472]Display: HotReload took 14.5s.
+[2017.02.03-13.26.04:418][472]Warning: HotReload operation took 14.5s.
+[2017.02.03-13.26.05:332][472]LogVSAccessor:Warning: Couldn't goto line number '0' in 'D:/UnReal/Obligatorisk_01/Source/Obligatorisk_01/Alien.h'
+[2017.02.03-13.26.05:463][472]LogVSAccessor:Warning: Couldn't goto line number '0' in 'D:/UnReal/Obligatorisk_01/Source/Obligatorisk_01/Alien.cpp'
+[2017.02.03-13.26.05:479][472]LogHotReload: New module detected: UE4Editor-Obligatorisk_01-5821.dll
+[2017.02.03-13.26.05:505][473]LogHotReload: Starting Hot-Reload from IDE
+[2017.02.03-13.26.05:618][473]LogContentBrowser: Native class hierarchy updated for 'Obligatorisk_01' in 0.0027 seconds. Added 3 classes and 2 folders.
+[2017.02.03-13.26.05:622][473]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.02.03-13.26.05:649][473]LogContentBrowser: Native class hierarchy populated in 0.0209 seconds. Added 2195 classes and 434 folders.
+[2017.02.03-13.26.05:656][473]Display: HotReload took  0.2s.
+[2017.02.03-13.26.16:421][230]Running C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe Obligatorisk_01 Win64 Development -editorrecompile "D:/UnReal/Obligatorisk_01/Obligatorisk_01.uproject" -invalidatemakefilesonly
+[2017.02.03-13.26.16:925][230]Invalidating makefiles only in this run.
+[2017.02.03-13.26.17:350][230]Recompiling Obligatorisk_01...
+[2017.02.03-13.26.17:350][230]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/DotNET/UnrealBuildTool.exe Obligatorisk_01 -ModuleWithSuffix Obligatorisk_01 3317 Win64 Development -editorrecompile -canskiplink "D:/UnReal/Obligatorisk_01/Obligatorisk_01.uproject" ]
+[2017.02.03-13.26.31:336][230]CompilerResultsLog: New page: Compilation - Feb 3, 2017, 3:26:31 PM
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info Creating makefile for hot reloading Obligatorisk_01 (no existing makefile)
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info Parsing headers for Obligatorisk_01Editor
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info   Running UnrealHeaderTool "D:\UnReal\Obligatorisk_01\Obligatorisk_01.uproject" "D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\Obligatorisk_01Editor\Development\Obligatorisk_01Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info Reflection code generated for Obligatorisk_01Editor in 5,4877717 seconds
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info Bullet.cpp
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info Obligatorisk_01.generated.cpp
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info [3/3] Link UE4Editor-Obligatorisk_01-3317.dll
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info    Creating library D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Obligatorisk_01-3317.lib and object D:\UnReal\Obligatorisk_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Obligatorisk_01-3317.exp
+[2017.02.03-13.26.31:337][230]CompilerResultsLog: Info Total build time: 13,81 seconds
+[2017.02.03-13.26.31:337][230]LogMainFrame: MainFrame: Module compiling took 13.994 seconds
+[2017.02.03-13.26.31:451][230]LogClass: Could not find existing class Bullet in package /Script/Obligatorisk_01 for HotReload, assuming new class
+[2017.02.03-13.26.31:459][230]LogContentBrowser: Native class hierarchy updated for 'Obligatorisk_01' in 0.0020 seconds. Added 4 classes and 2 folders.
+[2017.02.03-13.26.31:462][230]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.02.03-13.26.31:522][230]LogContentBrowser: Native class hierarchy populated in 0.0210 seconds. Added 2196 classes and 434 folders.
+[2017.02.03-13.26.31:522][230]Display: HotReload took 14.4s.
+[2017.02.03-13.26.31:524][230]Warning: HotReload operation took 14.4s.
+[2017.02.03-13.26.31:769][230]LogVSAccessor:Warning: Couldn't goto line number '0' in 'D:/UnReal/Obligatorisk_01/Source/Obligatorisk_01/Bullet.h'
+[2017.02.03-13.26.31:874][230]LogVSAccessor:Warning: Couldn't goto line number '0' in 'D:/UnReal/Obligatorisk_01/Source/Obligatorisk_01/Bullet.cpp'
+[2017.02.03-13.26.31:898][230]LogHotReload: New module detected: UE4Editor-Obligatorisk_01-3317.dll
+[2017.02.03-13.26.31:935][231]LogHotReload: Starting Hot-Reload from IDE
+[2017.02.03-13.26.32:051][231]LogContentBrowser: Native class hierarchy updated for 'Obligatorisk_01' in 0.0025 seconds. Added 4 classes and 2 folders.
+[2017.02.03-13.26.32:055][231]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.02.03-13.26.32:079][231]LogContentBrowser: Native class hierarchy populated in 0.0181 seconds. Added 2196 classes and 434 folders.
+[2017.02.03-13.26.32:086][231]Display: HotReload took  0.2s.
+[2017.02.03-13.35.20:683][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="D:/UnReal/Obligatorisk_01/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.02.03-13.35.20:730][719]LogSavePackage: Save=46.21ms
+[2017.02.03-13.35.20:730][719]LogSavePackage: Moving 'D:/UnReal/Obligatorisk_01/Saved/Untitled_1_Auto1D03B9934472F027C86BC9897566F3941.tmp' to 'D:/UnReal/Obligatorisk_01/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2017.02.03-13.35.20:731][719]LogSavePackage:Display: Finished SavePackage D:/UnReal/Obligatorisk_01/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2017.02.03-13.35.20:738][719]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.071
+[2017.02.03-13.35.20:738][719]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.071
+[2017.02.03-13.36.34:355][497]LogEditor: Attempting to add actor of class 'shipPawn' to level at -950.00,1410.00,570.00
+[2017.02.03-13.36.36:419][627]LogEditor: Attempting to add actor of class 'shipPawn' to level at -740.00,1380.00,560.00
+[2017.02.03-13.36.38:424][758]Cmd: TRANSACTION UNDO
+[2017.02.03-13.36.38:424][758]LogEditorTransaction: Undo Create Actors
+[2017.02.03-13.38.11:210][271]LogHotReload: New module detected: UE4Editor-Obligatorisk_01-5557.dll
+[2017.02.03-13.38.13:888][280]LogHotReload: Starting Hot-Reload from IDE
+[2017.02.03-13.38.14:004][280]LogClass: Could not find existing class Alien in package /Script/Obligatorisk_01 for HotReload, assuming new class
+[2017.02.03-13.38.14:004][280]LogClass: Could not find existing class Bullet in package /Script/Obligatorisk_01 for HotReload, assuming new class
+[2017.02.03-13.38.14:004][280]LogClass: Function OnOverlap is new.
+[2017.02.03-13.38.14:005][280]LogClass: Could not find existing class shipPawn in package /Script/Obligatorisk_01 for HotReload, assuming new class
+[2017.02.03-13.38.14:009][280]LogHotReload: Re-instancing Alien after hot-reload.
+[2017.02.03-13.38.14:067][280]LogHotReload: Re-instancing Bullet after hot-reload.
+[2017.02.03-13.38.14:120][280]LogHotReload: Re-instancing shipPawn after hot-reload.
+[2017.02.03-13.38.14:171][280]LogContentBrowser: Native class hierarchy updated for 'Obligatorisk_01' in 0.0019 seconds. Added 4 classes and 2 folders.
+[2017.02.03-13.38.14:174][280]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.02.03-13.38.14:224][280]LogContentBrowser: Native class hierarchy populated in 0.0200 seconds. Added 2196 classes and 434 folders.
+[2017.02.03-13.38.14:231][280]Display: HotReload took  0.3s.
+[2017.02.03-13.38.18:813][370]LogEditor: Attempting to add actor of class 'shipPawn' to level at -960.00,1410.00,612.00
+[2017.02.03-13.38.19:985][440]LogEditor: Attempting to add actor of class 'shipPawn' to level at -690.00,1370.00,612.00
+[2017.02.03-13.38.29:478][ 25]LogActorFactory: Actor Factory created Sphere
+[2017.02.03-13.38.39:508][609]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.38.39:533][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.38.39:534][609]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:38:39 PM)
+[2017.02.03-13.38.39:534][609]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.38.39:539][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005595s)
+[2017.02.03-13.38.39:541][609]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.38.39:542][609]LogPlayLevel: PIE: World Init took: (0.002155s)
+[2017.02.03-13.38.39:542][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.008235s)
+[2017.02.03-13.38.39:594][609]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.38.39:619][609]LogInit: FAudioDevice initialized.
+[2017.02.03-13.38.39:693][609]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.38.39:697][609]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.38.39
+[2017.02.03-13.38.39:698][609]LogWorld: Bringing up level for play took: 0.001966
+[2017.02.03-13.38.39:768][609]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0021 seconds. Added 11 classes and 0 folders.
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:769][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:770][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.38.39:771][609]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.974
+[2017.02.03-13.38.42:710][805]Cmd: SELECT NONE
+[2017.02.03-13.38.43:378][848]Cmd: SELECT NONE
+[2017.02.03-13.38.43:874][879]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.03-13.38.45:094][943]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.02.03-13.38.45:237][944]Cmd: SELECT NONE
+[2017.02.03-13.38.48:325][143]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn3)
+[2017.02.03-13.39.02:722][ 39]MapCheck: New page: Map Check
+[2017.02.03-13.39.02:768][ 39]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.39.02:768][ 39]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.39.02:800][ 39]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:39:02 PM
+[2017.02.03-13.39.02:971][ 39]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.39.03:159][ 39]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.39.03:182][ 39]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.39.04:203][ 39]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.39.04:203][ 39]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.39.07:215][ 39]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.39.07:216][ 39]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.39.07:216][ 39]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.39.07:216][ 39]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.39.07:216][ 39]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.39.07:216][ 39]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.39.07:416][ 39]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.39.07:416][ 39]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:39:07 PM
+[2017.02.03-13.39.07:502][ 39]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 86.217ms to complete.
+[2017.02.03-13.39.07:524][ 39]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.39.09:328][ 44]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn3)
+[2017.02.03-13.39.10:481][ 91]Job is a success!
+[2017.02.03-13.39.10:626][ 92]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.02.03-13.39.10:626][ 92]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.02.03-13.39.10:626][ 92]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.02.03-13.39.10:626][ 92]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.02.03-13.39.10:626][ 92]LogTexture:Display: Building textures: ShadowMapTexture2D_0 (G8)
+[2017.02.03-13.39.10:626][ 92]LogTexture:Display: Building textures: ShadowMapTexture2D_1 (G8)
+[2017.02.03-13.39.10:661][ 92]Lightmass on MORGANS-PC: 1.15 sec total, 321 ms importing, 30 ms setup, 281 ms photons, 489 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 3.26 sec total, 427 ms processing.
+[2017.02.03-13.39.10:690][ 92]LogStaticLightingSystem: Illumination: 7.86 sec (21 ms encoding lightmaps, 25 ms encoding shadowmaps)
+[2017.02.03-13.39.10:690][ 92]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.39.10:690][ 92]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.39.11:220][ 92]DumpUnbuiltLightIteractions
+[2017.02.03-13.39.11:220][ 92]Lights with unbuilt interactions: 0
+[2017.02.03-13.39.11:220][ 92]
+[2017.02.03-13.39.11:220][ 92]Primitives with unbuilt interactions: 0
+[2017.02.03-13.39.11:241][ 93]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.39.11:241][ 93]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:39:11 PM
+[2017.02.03-13.39.11:333][ 93]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 91.955ms to complete.
+[2017.02.03-13.39.12:936][163]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn3)
+[2017.02.03-13.39.15:306][283]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn3)
+[2017.02.03-13.39.15:762][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.03-13.39.16:650][343]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn3)
+[2017.02.03-13.39.17:168][360]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn3)
+[2017.02.03-13.39.20:333][539]Cmd: TRANSACTION UNDO
+[2017.02.03-13.39.20:333][539]LogEditorTransaction: Undo Clicking on Actors
+[2017.02.03-13.39.23:242][725]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn3)
+[2017.02.03-13.39.24:871][825]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.03-13.39.29:722][107]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn3)
+[2017.02.03-13.39.34:112][376]Cmd: TRANSACTION UNDO
+[2017.02.03-13.39.34:112][376]LogEditorTransaction: Undo Scale Actors
+[2017.02.03-13.39.36:096][499]Cmd: DELETE
+[2017.02.03-13.39.36:096][499]Cmd: ACTOR DELETE
+[2017.02.03-13.39.36:100][499]LogEditorActor: Deleted Actor: shipPawn
+[2017.02.03-13.39.36:129][499]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2017.02.03-13.39.37:552][587]LogEditor: Attempting to add actor of class 'shipPawn' to level at -650.00,1360.00,1082.00
+[2017.02.03-13.39.41:267][835]LogEditor: Attempting to add actor of class 'shipPawn' to level at -450.00,0.00,52.00
+[2017.02.03-13.39.42:115][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.02.03-13.39.50:832][375]LogActorFactory: Actor Factory created Sphere
+[2017.02.03-13.39.54:982][612]MapCheck: New page: Map Check
+[2017.02.03-13.39.55:006][612]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.39.55:006][612]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.39.55:020][612]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:39:55 PM
+[2017.02.03-13.39.55:036][612]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.39.55:040][612]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.39.55:040][612]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.39.55:042][612]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.39.55:042][612]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.39.59:568][612]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.39.59:568][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.39.59:568][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.39.59:568][612]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.39.59:568][612]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.39.59:568][612]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.39.59:669][612]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.39.59:669][612]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:39:59 PM
+[2017.02.03-13.39.59:735][612]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 64.903ms to complete.
+[2017.02.03-13.39.59:757][612]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.40.00:835][617]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.40.00:856][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.40.00:857][617]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:40:00 PM)
+[2017.02.03-13.40.00:857][617]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.40.00:862][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004959s)
+[2017.02.03-13.40.00:863][617]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.40.00:863][617]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2017.02.03-13.40.00:863][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006726s)
+[2017.02.03-13.40.00:889][617]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.40.00:913][617]LogInit: FAudioDevice initialized.
+[2017.02.03-13.40.00:945][617]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.40.00:948][617]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.40.00
+[2017.02.03-13.40.00:949][617]LogWorld: Bringing up level for play took: 0.001675
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:950][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.40.00:951][617]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.155
+[2017.02.03-13.40.01:733][689]Job is a success!
+[2017.02.03-13.40.11:483][239]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.02.03-13.40.11:573][241]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Obligatorisk01
+
+[2017.02.03-13.40.11:573][241]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.02.03-13.40.11:573][241]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.02.03-13.40.11:573][241]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.02.03-13.40.11:580][241]LogTemp:Display: BranchPath = MORGANS-PC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = MORGANS-PC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.02.03-13.40.11:617][243]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\morga\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.02.03-13.40.11:617][243]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.02.03-13.40.11:617][243]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.02.03-13.40.11:617][243]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.02.03-13.40.11:617][243]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.02.03-13.40.11:617][243]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.02.03-13.41.24:800][309]MapCheck: New page: Map Check
+[2017.02.03-13.41.24:834][309]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.41.24:834][309]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:41:24 PM
+[2017.02.03-13.41.24:907][309]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 72.549ms to complete.
+[2017.02.03-13.41.24:930][309]LogEditorBuildUtils: Build time 0:00
+[2017.02.03-13.41.30:619][674]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.02.03-13.41.30:619][674]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.02.03-13.41.30:619][674]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.02.03-13.41.30:619][674]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.02.03-13.41.30:619][674]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8)
+[2017.02.03-13.41.30:619][674]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8)
+[2017.02.03-13.41.30:645][674]Lightmass on MORGANS-PC: 1:29 min total, 200 ms importing, 34 ms setup, 275 ms photons, 1:29 min processing, 0 ms extra exporting [2/2 mappings]. Threads: 10:23 min total, 370 ms processing.
+[2017.02.03-13.41.30:655][674]LogStaticLightingSystem: Illumination: 6.84 sec (13 ms encoding lightmaps, 27 ms encoding shadowmaps)
+[2017.02.03-13.41.30:655][674]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.41.30:655][674]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.41.31:596][674]DumpUnbuiltLightIteractions
+[2017.02.03-13.41.31:596][674]Lights with unbuilt interactions: 0
+[2017.02.03-13.41.31:596][674]
+[2017.02.03-13.41.31:596][674]Primitives with unbuilt interactions: 0
+[2017.02.03-13.41.31:607][675]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.41.31:607][675]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:41:31 PM
+[2017.02.03-13.41.31:672][675]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 65.59ms to complete.
+[2017.02.03-13.41.33:898][827]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.41.33:921][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.41.33:921][827]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:41:33 PM)
+[2017.02.03-13.41.33:921][827]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.41.33:924][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003095s)
+[2017.02.03-13.41.33:925][827]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.41.33:926][827]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2017.02.03-13.41.33:926][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004811s)
+[2017.02.03-13.41.33:949][827]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.41.33:966][827]LogInit: FAudioDevice initialized.
+[2017.02.03-13.41.34:003][827]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.41.34:007][827]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.41.34
+[2017.02.03-13.41.34:007][827]LogWorld: Bringing up level for play took: 0.001781
+[2017.02.03-13.41.34:008][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:009][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.34:010][827]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.787
+[2017.02.03-13.41.35:575][981]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.35:952][ 18]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.36:132][ 36]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.36:979][121]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.37:169][140]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.37:329][156]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.37:568][180]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.37:748][198]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.38:116][235]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.38:277][251]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.38:427][266]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.38:561][279]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.41.38:704][293]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.42.07:341][231]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0025 seconds. Added 111 classes and 0 folders.
+[2017.02.03-13.42.26:548][247]LogActorFactory: Actor Factory created Cone
+[2017.02.03-13.42.38:547][855]BlueprintLog: New page: Compile Bullet_BP
+[2017.02.03-13.42.39:780][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet_BP" FILE="D:/UnReal/Obligatorisk_01/Content/Bullet_BP.uasset" SILENT=true
+[2017.02.03-13.42.39:814][896]LogSavePackage: Save=32.54ms
+[2017.02.03-13.42.39:814][896]LogSavePackage: Moving 'D:/UnReal/Obligatorisk_01/Saved/Bullet_BP63D755824A8488305396908BB3278B0A.tmp' to 'D:/UnReal/Obligatorisk_01/Content/Bullet_BP.uasset'
+[2017.02.03-13.42.39:816][896]LogSavePackage:Display: Finished SavePackage D:/UnReal/Obligatorisk_01/Content/Bullet_BP.uasset
+[2017.02.03-13.43.04:297][370]LogActorFactory: Actor Factory created Cube
+[2017.02.03-13.43.10:426][685]BlueprintLog: New page: Compile Alien_BP
+[2017.02.03-13.43.11:493][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alien_BP" FILE="D:/UnReal/Obligatorisk_01/Content/Alien_BP.uasset" SILENT=true
+[2017.02.03-13.43.11:527][720]LogSavePackage: Save=31.94ms
+[2017.02.03-13.43.11:527][720]LogSavePackage: Moving 'D:/UnReal/Obligatorisk_01/Saved/Alien_BP624BCF554BD3571601C33BA44B19E752.tmp' to 'D:/UnReal/Obligatorisk_01/Content/Alien_BP.uasset'
+[2017.02.03-13.43.11:529][720]LogSavePackage:Display: Finished SavePackage D:/UnReal/Obligatorisk_01/Content/Alien_BP.uasset
+[2017.02.03-13.43.13:846][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.03-13.43.16:124][983]MapCheck: New page: Map Check
+[2017.02.03-13.43.16:155][983]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.43.16:155][983]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.43.16:165][983]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:43:16 PM
+[2017.02.03-13.43.16:180][983]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.43.16:185][983]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.43.16:185][983]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.43.16:186][983]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.43.16:187][983]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.43.20:696][983]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.43.20:696][983]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.43.20:696][983]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.43.20:697][983]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.43.20:697][983]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.43.20:697][983]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.43.20:800][983]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.43.20:800][983]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:43:20 PM
+[2017.02.03-13.43.20:871][983]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 71.001ms to complete.
+[2017.02.03-13.43.20:894][983]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.43.22:023][988]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.43.22:059][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.43.22:059][988]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:43:22 PM)
+[2017.02.03-13.43.22:060][988]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.43.22:064][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004053s)
+[2017.02.03-13.43.22:066][988]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.43.22:066][988]LogPlayLevel: PIE: World Init took: (0.001521s)
+[2017.02.03-13.43.22:066][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006732s)
+[2017.02.03-13.43.22:100][988]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.43.22:118][988]LogInit: FAudioDevice initialized.
+[2017.02.03-13.43.22:167][988]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.43.22:170][988]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.43.22
+[2017.02.03-13.43.22:171][988]LogWorld: Bringing up level for play took: 0.002002
+[2017.02.03-13.43.22:172][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:172][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:172][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:172][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:172][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:172][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:173][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:174][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:175][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:176][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:177][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:178][988]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.22:179][988]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.618
+[2017.02.03-13.43.22:918][ 55]Job is a success!
+[2017.02.03-13.43.23:262][ 84]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.23:422][ 95]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.23:605][108]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.27:335][312]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.02.03-13.43.27:335][312]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.02.03-13.43.27:335][312]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.02.03-13.43.27:335][312]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.02.03-13.43.27:335][312]LogTexture:Display: Building textures: ShadowMapTexture2D_4 (G8)
+[2017.02.03-13.43.27:335][312]LogTexture:Display: Building textures: ShadowMapTexture2D_5 (G8)
+[2017.02.03-13.43.27:366][312]Lightmass on MORGANS-PC: 5.19 sec total, 206 ms importing, 29 ms setup, 277 ms photons, 4.65 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 32.4 sec total, 357 ms processing.
+[2017.02.03-13.43.27:371][312]LogStaticLightingSystem: Illumination: 6.89 sec (12 ms encoding lightmaps, 28 ms encoding shadowmaps)
+[2017.02.03-13.43.27:371][312]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.43.27:372][312]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.43.27:700][312]DumpUnbuiltLightIteractions
+[2017.02.03-13.43.27:700][312]Lights with unbuilt interactions: 0
+[2017.02.03-13.43.27:700][312]
+[2017.02.03-13.43.27:700][312]Primitives with unbuilt interactions: 0
+[2017.02.03-13.43.27:710][313]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.43.27:711][313]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:43:27 PM
+[2017.02.03-13.43.27:780][313]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 69.044ms to complete.
+[2017.02.03-13.43.32:473][609]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.43.32:489][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.43.32:490][609]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:43:32 PM)
+[2017.02.03-13.43.32:490][609]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.43.32:493][609]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002943s)
+[2017.02.03-13.43.32:494][609]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.43.32:494][609]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2017.02.03-13.43.32:495][609]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004770s)
+[2017.02.03-13.43.32:526][609]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.43.32:545][609]LogInit: FAudioDevice initialized.
+[2017.02.03-13.43.32:579][609]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.43.32:583][609]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.43.32
+[2017.02.03-13.43.32:584][609]LogWorld: Bringing up level for play took: 0.002092
+[2017.02.03-13.43.32:585][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:585][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:585][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:585][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:585][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:586][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:587][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:588][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:589][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:590][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:591][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:592][609]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.32:592][609]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.204
+[2017.02.03-13.43.34:347][780]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.35:130][858]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.35:692][914]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.35:824][927]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2017.02.03-13.43.40:815][250]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn5)
+[2017.02.03-13.43.43:718][437]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.02.03-13.43.48:495][759]MapCheck: New page: Map Check
+[2017.02.03-13.43.48:525][759]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.43.48:525][759]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.43.48:536][759]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:43:48 PM
+[2017.02.03-13.43.48:547][759]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.43.48:550][759]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.43.48:550][759]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.43.48:551][759]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.43.48:552][759]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.43.53:066][759]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.43.53:067][759]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.43.53:067][759]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.43.53:067][759]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.43.53:067][759]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.43.53:067][759]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.43.53:174][759]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.43.53:174][759]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:43:53 PM
+[2017.02.03-13.43.53:246][759]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 72.185ms to complete.
+[2017.02.03-13.43.53:270][759]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.43.54:462][764]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.43.54:479][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.43.54:479][764]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:43:54 PM)
+[2017.02.03-13.43.54:479][764]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.43.54:483][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003331s)
+[2017.02.03-13.43.54:484][764]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.43.54:485][764]LogPlayLevel: PIE: World Init took: (0.001611s)
+[2017.02.03-13.43.54:485][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005741s)
+[2017.02.03-13.43.54:521][764]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.43.54:539][764]LogInit: FAudioDevice initialized.
+[2017.02.03-13.43.54:578][764]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.43.54:582][764]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.43.54
+[2017.02.03-13.43.54:583][764]LogWorld: Bringing up level for play took: 0.002193
+[2017.02.03-13.43.54:616][764]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.181
+[2017.02.03-13.43.55:347][801]Job is a success!
+[2017.02.03-13.43.55:671][821]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.56:390][857]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.56:581][867]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.56:768][877]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.56:902][884]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.57:340][907]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.57:457][912]LogTemp:Warning: Destruction
+[2017.02.03-13.43.57:558][918]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.57:657][922]LogTemp:Warning: Destruction
+[2017.02.03-13.43.57:720][926]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.57:834][931]LogTemp:Warning: Destruction
+[2017.02.03-13.43.57:932][937]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.57:970][938]LogTemp:Warning: Destruction
+[2017.02.03-13.43.58:387][960]LogTemp:Warning: Destruction
+[2017.02.03-13.43.58:613][980]LogTemp:Warning: Destruction
+[2017.02.03-13.43.58:775][995]LogTemp:Warning: Destruction
+[2017.02.03-13.43.58:982][ 15]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.43.58:990][ 15]LogTemp:Warning: Destruction
+[2017.02.03-13.43.59:729][ 82]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.00:044][108]LogTemp:Warning: Destruction
+[2017.02.03-13.44.00:066][110]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.00:453][143]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.00:573][153]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.00:754][168]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.00:888][179]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.00:997][188]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.01:148][200]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.01:408][221]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.44.01:822][254]LogTemp:Warning: Destruction
+[2017.02.03-13.44.01:954][265]LogTemp:Warning: Destruction
+[2017.02.03-13.44.02:060][274]LogTemp:Warning: Destruction
+[2017.02.03-13.44.02:215][287]LogTemp:Warning: Destruction
+[2017.02.03-13.44.02:475][309]LogTemp:Warning: Destruction
+[2017.02.03-13.44.28:076][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.03-13.44.29:481][782]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.02.03-13.44.32:816][949]Cmd: TRANSACTION UNDO
+[2017.02.03-13.44.32:816][949]LogEditorTransaction: Undo Move Actors
+[2017.02.03-13.44.40:587][371]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.03-13.44.43:883][567]MapCheck: New page: Map Check
+[2017.02.03-13.44.43:919][567]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.44.43:920][567]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:44:43 PM
+[2017.02.03-13.44.43:924][567]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2017.02.03-13.44.43:992][567]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 72.605ms to complete.
+[2017.02.03-13.44.44:016][567]LogEditorBuildUtils: Build time 0:00
+[2017.02.03-13.44.49:387][820]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.02.03-13.44.49:388][820]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.02.03-13.44.49:388][820]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.02.03-13.44.49:388][820]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.02.03-13.44.49:388][820]LogTexture:Display: Building textures: ShadowMapTexture2D_6 (G8)
+[2017.02.03-13.44.49:388][820]LogTexture:Display: Building textures: ShadowMapTexture2D_7 (G8)
+[2017.02.03-13.44.49:421][820]Lightmass on MORGANS-PC: 54.8 sec total, 203 ms importing, 26 ms setup, 274 ms photons, 54.2 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 6:19 min total, 347 ms processing.
+[2017.02.03-13.44.49:429][820]LogStaticLightingSystem: Illumination: 6.94 sec (14 ms encoding lightmaps, 19 ms encoding shadowmaps)
+[2017.02.03-13.44.49:429][820]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.44.49:429][820]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.44.50:092][820]DumpUnbuiltLightIteractions
+[2017.02.03-13.44.50:092][820]Lights with unbuilt interactions: 0
+[2017.02.03-13.44.50:092][820]
+[2017.02.03-13.44.50:092][820]Primitives with unbuilt interactions: 0
+[2017.02.03-13.44.50:103][821]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.44.50:104][821]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:44:50 PM
+[2017.02.03-13.44.50:172][821]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 67.993ms to complete.
+[2017.02.03-13.44.51:558][911]MapCheck: New page: Map Check
+[2017.02.03-13.44.51:587][911]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.44.51:588][911]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.44.51:597][911]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:44:51 PM
+[2017.02.03-13.44.51:608][911]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.44.51:610][911]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.44.51:610][911]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.44.51:611][911]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.44.51:611][911]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.44.56:123][911]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.44.56:123][911]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.44.56:123][911]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.44.56:124][911]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.44.56:124][911]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.44.56:124][911]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.44.56:225][911]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.44.56:225][911]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:44:56 PM
+[2017.02.03-13.44.56:297][911]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 72.16ms to complete.
+[2017.02.03-13.44.56:320][911]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.44.57:488][916]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.44.57:506][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.44.57:506][916]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:44:57 PM)
+[2017.02.03-13.44.57:506][916]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.44.57:510][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003167s)
+[2017.02.03-13.44.57:511][916]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.44.57:512][916]LogPlayLevel: PIE: World Init took: (0.001884s)
+[2017.02.03-13.44.57:512][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006033s)
+[2017.02.03-13.44.57:548][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.44.57:567][916]LogInit: FAudioDevice initialized.
+[2017.02.03-13.44.57:618][916]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.44.57:622][916]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.44.57
+[2017.02.03-13.44.57:623][916]LogWorld: Bringing up level for play took: 0.002084
+[2017.02.03-13.44.57:656][916]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.859
+[2017.02.03-13.44.58:387][952]Job is a success!
+[2017.02.03-13.45.13:320][877]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.02.03-13.45.19:389][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.03-13.45.24:596][528]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn5)
+[2017.02.03-13.45.28:487][762]MapCheck: New page: Map Check
+[2017.02.03-13.45.28:514][762]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.45.28:514][762]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:45:28 PM
+[2017.02.03-13.45.28:519][762]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2017.02.03-13.45.28:589][762]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 74.493ms to complete.
+[2017.02.03-13.45.28:612][762]LogEditorBuildUtils: Build time 0:00
+[2017.02.03-13.45.32:279][929]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.02.03-13.45.32:279][929]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.02.03-13.45.32:280][929]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.02.03-13.45.32:280][929]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.02.03-13.45.32:280][929]LogTexture:Display: Building textures: ShadowMapTexture2D_8 (G8)
+[2017.02.03-13.45.32:280][929]LogTexture:Display: Building textures: ShadowMapTexture2D_9 (G8)
+[2017.02.03-13.45.32:311][929]Lightmass on MORGANS-PC: 34.6 sec total, 203 ms importing, 28 ms setup, 275 ms photons, 34.1 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 3:58 min total, 356 ms processing.
+[2017.02.03-13.45.32:318][929]LogStaticLightingSystem: Illumination: 6.96 sec (13 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2017.02.03-13.45.32:318][929]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.45.32:319][929]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.45.33:139][929]DumpUnbuiltLightIteractions
+[2017.02.03-13.45.33:139][929]Lights with unbuilt interactions: 0
+[2017.02.03-13.45.33:139][929]
+[2017.02.03-13.45.33:139][929]Primitives with unbuilt interactions: 0
+[2017.02.03-13.45.33:150][930]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.45.33:150][930]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:45:33 PM
+[2017.02.03-13.45.33:220][930]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 69.892ms to complete.
+[2017.02.03-13.45.35:088][ 48]MapCheck: New page: Map Check
+[2017.02.03-13.45.35:104][ 48]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.45.35:105][ 48]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.45.35:114][ 48]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:45:35 PM
+[2017.02.03-13.45.35:125][ 48]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.45.35:128][ 48]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.45.35:128][ 48]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.45.35:128][ 48]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.45.35:128][ 48]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.45.39:642][ 48]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.45.39:642][ 48]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.45.39:643][ 48]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.45.39:643][ 48]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.45.39:643][ 48]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.45.39:643][ 48]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.45.39:751][ 48]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.45.39:752][ 48]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:45:39 PM
+[2017.02.03-13.45.39:824][ 48]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 72.385ms to complete.
+[2017.02.03-13.45.39:847][ 48]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.45.40:850][ 53]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.45.40:869][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.45.40:870][ 53]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:45:40 PM)
+[2017.02.03-13.45.40:870][ 53]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.45.40:875][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004128s)
+[2017.02.03-13.45.40:876][ 53]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.45.40:877][ 53]LogPlayLevel: PIE: World Init took: (0.001582s)
+[2017.02.03-13.45.40:877][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006909s)
+[2017.02.03-13.45.40:913][ 53]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.45.40:934][ 53]LogInit: FAudioDevice initialized.
+[2017.02.03-13.45.40:970][ 53]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.45.40:974][ 53]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.45.40
+[2017.02.03-13.45.40:974][ 53]LogWorld: Bringing up level for play took: 0.002112
+[2017.02.03-13.45.41:003][ 53]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.206
+[2017.02.03-13.45.41:962][101]Job is a success!
+[2017.02.03-13.45.58:613][210]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn5)
+[2017.02.03-13.46.02:872][485]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.02.03-13.46.06:995][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.02.03-13.46.15:440][208]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.02.03-13.46.20:114][464]MapCheck: New page: Map Check
+[2017.02.03-13.46.20:138][464]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.46.20:138][464]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:46:20 PM
+[2017.02.03-13.46.20:142][464]MapCheck:Error: Error WorldSettings_1 Maps need lighting rebuilt 
+[2017.02.03-13.46.20:211][464]MapCheck: Info Map check complete: 1 Error(s), 0 Warning(s), took 72.731ms to complete.
+[2017.02.03-13.46.20:233][464]LogEditorBuildUtils: Build time 0:00
+[2017.02.03-13.46.22:511][552]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.02.03-13.46.22:511][552]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.02.03-13.46.22:511][552]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.02.03-13.46.22:511][552]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.02.03-13.46.22:512][552]LogTexture:Display: Building textures: ShadowMapTexture2D_10 (G8)
+[2017.02.03-13.46.22:512][552]LogTexture:Display: Building textures: ShadowMapTexture2D_11 (G8)
+[2017.02.03-13.46.22:545][552]Lightmass on MORGANS-PC: 41.5 sec total, 202 ms importing, 33 ms setup, 327 ms photons, 40.9 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 4:46 min total, 556 ms processing.
+[2017.02.03-13.46.22:551][552]LogStaticLightingSystem: Illumination: 7.03 sec (13 ms encoding lightmaps, 16 ms encoding shadowmaps)
+[2017.02.03-13.46.22:552][552]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.46.22:552][552]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.46.22:659][552]DumpUnbuiltLightIteractions
+[2017.02.03-13.46.22:659][552]Lights with unbuilt interactions: 0
+[2017.02.03-13.46.22:660][552]
+[2017.02.03-13.46.22:660][552]Primitives with unbuilt interactions: 0
+[2017.02.03-13.46.22:673][553]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.46.22:673][553]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:46:22 PM
+[2017.02.03-13.46.22:743][553]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 70.144ms to complete.
+[2017.02.03-13.46.25:358][682]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.46.25:373][682]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.46.25:373][682]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:46:25 PM)
+[2017.02.03-13.46.25:373][682]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.46.25:376][682]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002577s)
+[2017.02.03-13.46.25:377][682]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.46.25:378][682]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2017.02.03-13.46.25:378][682]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.004903s)
+[2017.02.03-13.46.25:436][682]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.46.25:455][682]LogInit: FAudioDevice initialized.
+[2017.02.03-13.46.25:492][682]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.46.25:496][682]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.46.25
+[2017.02.03-13.46.25:497][682]LogWorld: Bringing up level for play took: 0.002012
+[2017.02.03-13.46.25:523][682]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.726
+[2017.02.03-13.46.36:334][467]LogEditorViewport: Clicking on Actor (LMB): shipPawn (shipPawn5)
+[2017.02.03-13.46.40:003][701]MapCheck: New page: Map Check
+[2017.02.03-13.46.40:022][701]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.46.40:023][701]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.46.40:032][701]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:46:40 PM
+[2017.02.03-13.46.40:043][701]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.46.40:046][701]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.46.40:046][701]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.46.40:047][701]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.46.40:047][701]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.46.44:560][701]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.46.44:560][701]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.46.44:560][701]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.46.44:560][701]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.46.44:561][701]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.46.44:561][701]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.46.44:661][701]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.46.44:661][701]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:46:44 PM
+[2017.02.03-13.46.44:731][701]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 69.95ms to complete.
+[2017.02.03-13.46.44:754][701]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.46.46:875][761]Job is a success!
+[2017.02.03-13.46.47:005][762]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.02.03-13.46.47:006][762]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.02.03-13.46.47:006][762]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.02.03-13.46.47:006][762]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.02.03-13.46.47:006][762]LogTexture:Display: Building textures: ShadowMapTexture2D_12 (G8)
+[2017.02.03-13.46.47:006][762]LogTexture:Display: Building textures: ShadowMapTexture2D_13 (G8)
+[2017.02.03-13.46.47:044][762]Lightmass on MORGANS-PC: 1.12 sec total, 218 ms importing, 30 ms setup, 333 ms photons, 511 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 3.42 sec total, 519 ms processing.
+[2017.02.03-13.46.47:052][762]LogStaticLightingSystem: Illumination: 6.97 sec (14 ms encoding lightmaps, 16 ms encoding shadowmaps)
+[2017.02.03-13.46.47:052][762]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.46.47:053][762]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.46.47:563][762]DumpUnbuiltLightIteractions
+[2017.02.03-13.46.47:563][762]Lights with unbuilt interactions: 0
+[2017.02.03-13.46.47:563][762]
+[2017.02.03-13.46.47:563][762]Primitives with unbuilt interactions: 0
+[2017.02.03-13.46.47:579][763]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.46.47:580][763]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:46:47 PM
+[2017.02.03-13.46.47:648][763]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 68.717ms to complete.
+[2017.02.03-13.46.51:435][970]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2017.02.03-13.47.02:266][615]MapCheck: New page: Map Check
+[2017.02.03-13.47.02:282][615]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.47.02:282][615]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.47.02:290][615]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:47:02 PM
+[2017.02.03-13.47.02:300][615]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.47.02:303][615]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.47.02:303][615]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.47.02:303][615]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.47.02:304][615]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.47.06:820][615]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.47.06:820][615]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.47.06:820][615]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.47.06:820][615]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.47.06:820][615]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.47.06:821][615]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.47.06:915][615]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.47.06:915][615]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:47:06 PM
+[2017.02.03-13.47.06:986][615]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 69.849ms to complete.
+[2017.02.03-13.47.07:009][615]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.47.07:968][620]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.47.07:985][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.47.07:985][620]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:47:07 PM)
+[2017.02.03-13.47.07:986][620]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.47.07:990][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004357s)
+[2017.02.03-13.47.07:992][620]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.47.07:993][620]LogPlayLevel: PIE: World Init took: (0.001794s)
+[2017.02.03-13.47.07:993][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007448s)
+[2017.02.03-13.47.08:058][620]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.47.08:081][620]LogInit: FAudioDevice initialized.
+[2017.02.03-13.47.08:116][620]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.47.08:120][620]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.47.08
+[2017.02.03-13.47.08:120][620]LogWorld: Bringing up level for play took: 0.002175
+[2017.02.03-13.47.08:147][620]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.65
+[2017.02.03-13.47.09:053][665]Job is a success!
+[2017.02.03-13.47.12:712][847]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.13:111][875]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.13:197][881]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.13:518][904]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.13:891][930]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.14:060][941]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.14:257][953]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.14:396][963]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.14:567][975]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.14:736][987]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.14:920][  0]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.15:076][ 11]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.16:313][ 98]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.16:614][122]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.16:796][136]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.16:964][148]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.18:050][231]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.18:320][254]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.18:516][270]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.18:679][283]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.18:776][291]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.18:994][309]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.19:282][332]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.19:566][357]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.19:682][367]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.19:818][379]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.19:983][394]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.47.39:892][449]LogEditorTransaction: Undo Modify Component(s)
+[2017.02.03-13.47.46:019][720]LogEditorTransaction: Undo Modify Component(s)
+[2017.02.03-13.47.51:979][983]LogEditorTransaction: Undo Modify Component(s)
+[2017.02.03-13.47.52:477][  2]LogEditorTransaction: Undo Modify Component(s)
+[2017.02.03-13.47.53:338][ 35]LogEditorTransaction: Undo Modify Component(s)
+[2017.02.03-13.48.04:847][540]LogEditorTransaction: Undo Modify Component(s)
+[2017.02.03-13.48.17:163][112]BlueprintLog: New page: Compile Alien_BP
+[2017.02.03-13.48.18:565][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alien_BP" FILE="D:/UnReal/Obligatorisk_01/Content/Alien_BP.uasset" SILENT=true
+[2017.02.03-13.48.18:605][153]LogSavePackage: Save=32.12ms
+[2017.02.03-13.48.18:605][153]LogSavePackage: Moving 'D:/UnReal/Obligatorisk_01/Saved/Alien_BPDBAA69234DA5C8FE938A8C82613DF458.tmp' to 'D:/UnReal/Obligatorisk_01/Content/Alien_BP.uasset'
+[2017.02.03-13.48.18:607][153]LogSavePackage:Display: Finished SavePackage D:/UnReal/Obligatorisk_01/Content/Alien_BP.uasset
+[2017.02.03-13.48.45:908][469]BlueprintLog: New page: Compile Bullet_BP
+[2017.02.03-13.48.47:333][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bullet_BP" FILE="D:/UnReal/Obligatorisk_01/Content/Bullet_BP.uasset" SILENT=true
+[2017.02.03-13.48.47:372][510]LogSavePackage: Save=31.20ms
+[2017.02.03-13.48.47:372][510]LogSavePackage: Moving 'D:/UnReal/Obligatorisk_01/Saved/Bullet_BPCA5CA4C84630CF62FB3C9896A554A2F7.tmp' to 'D:/UnReal/Obligatorisk_01/Content/Bullet_BP.uasset'
+[2017.02.03-13.48.47:374][510]LogSavePackage:Display: Finished SavePackage D:/UnReal/Obligatorisk_01/Content/Bullet_BP.uasset
+[2017.02.03-13.48.52:157][768]MapCheck: New page: Map Check
+[2017.02.03-13.48.52:196][768]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.48.52:196][768]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:48:52 PM
+[2017.02.03-13.48.52:269][768]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 73.342ms to complete.
+[2017.02.03-13.48.52:292][768]LogEditorBuildUtils: Build time 0:00
+[2017.02.03-13.48.54:935][889]LogTexture:Display: Building textures: HQ_Lightmap1_1 (AutoDXT)
+[2017.02.03-13.48.54:935][889]LogTexture:Display: Building textures: LQ_Lightmap_1_1 (DXT1)
+[2017.02.03-13.48.54:935][889]LogTexture:Display: Building textures: HQ_Lightmap1_2 (AutoDXT)
+[2017.02.03-13.48.54:935][889]LogTexture:Display: Building textures: LQ_Lightmap_1_2 (DXT1)
+[2017.02.03-13.48.54:936][889]LogTexture:Display: Building textures: ShadowMapTexture2D_14 (G8)
+[2017.02.03-13.48.54:936][889]LogTexture:Display: Building textures: ShadowMapTexture2D_15 (G8)
+[2017.02.03-13.48.54:969][889]Lightmass on MORGANS-PC: 1:46 min total, 205 ms importing, 30 ms setup, 337 ms photons, 1:46 min processing, 0 ms extra exporting [2/2 mappings]. Threads: 12:23 min total, 501 ms processing.
+[2017.02.03-13.48.54:980][889]LogStaticLightingSystem: Illumination: 6.90 sec (13 ms encoding lightmaps, 17 ms encoding shadowmaps)
+[2017.02.03-13.48.54:980][889]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.48.54:980][889]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.48.55:855][889]DumpUnbuiltLightIteractions
+[2017.02.03-13.48.55:855][889]Lights with unbuilt interactions: 0
+[2017.02.03-13.48.55:855][889]
+[2017.02.03-13.48.55:855][889]Primitives with unbuilt interactions: 0
+[2017.02.03-13.48.55:865][890]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.48.55:866][890]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:48:55 PM
+[2017.02.03-13.48.55:933][890]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 67.354ms to complete.
+[2017.02.03-13.48.58:423][ 34]MapCheck: New page: Map Check
+[2017.02.03-13.48.58:455][ 34]Cmd: MAP REBUILD ALLVISIBLE
+[2017.02.03-13.48.58:455][ 34]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.02.03-13.48.58:464][ 34]LightingResults: New page: Lighting Build - Feb 3, 2017, 3:48:58 PM
+[2017.02.03-13.48.58:475][ 34]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.02.03-13.48.58:477][ 34]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.02.03-13.48.58:477][ 34]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.02.03-13.48.58:478][ 34]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.02.03-13.48.58:478][ 34]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12256
+[2017.02.03-13.49.02:989][ 34]LogStaticLightingSystem:Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.02.03-13.49.02:989][ 34]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.02.03-13.49.02:989][ 34]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.02.03-13.49.02:989][ 34]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.02.03-13.49.02:990][ 34]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.02.03-13.49.02:990][ 34]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.02.03-13.49.03:089][ 34]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.02.03-13.49.03:090][ 34]MapCheck: New page: Untitled_1 - Feb 3, 2017, 3:49:03 PM
+[2017.02.03-13.49.03:155][ 34]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 66.019ms to complete.
+[2017.02.03-13.49.03:178][ 34]LogEditorBuildUtils: Build time 0:04
+[2017.02.03-13.49.04:256][ 39]LogTemp: Repeting last play command: Selected Viewport
+[2017.02.03-13.49.04:273][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.02.03-13.49.04:273][ 39]PIE: New page: PIE session: Untitled_1 (Feb 3, 2017, 3:49:04 PM)
+[2017.02.03-13.49.04:273][ 39]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2017.02.03-13.49.04:277][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003257s)
+[2017.02.03-13.49.04:278][ 39]LogAIModule: Creating AISystem for world Untitled_1
+[2017.02.03-13.49.04:279][ 39]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2017.02.03-13.49.04:279][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.005834s)
+[2017.02.03-13.49.04:352][ 39]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.02.03-13.49.04:374][ 39]LogInit: FAudioDevice initialized.
+[2017.02.03-13.49.04:406][ 39]LogLoad: Game class is 'GameModeBase'
+[2017.02.03-13.49.04:410][ 39]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2017.02.03-14.49.04
+[2017.02.03-13.49.04:410][ 39]LogWorld: Bringing up level for play took: 0.002050
+[2017.02.03-13.49.04:436][ 39]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.36
+[2017.02.03-13.49.05:327][ 85]Job is a success!
+[2017.02.03-13.49.06:568][144]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.06:806][154]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.07:013][163]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.07:155][169]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.07:827][199]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.08:231][217]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.08:672][245]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.08:834][257]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.09:045][271]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.09:170][281]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.09:294][290]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.09:453][302]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.09:705][321]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.09:993][342]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.10:819][408]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.11:004][423]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.11:177][437]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.12:119][514]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.12:401][536]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.12:541][547]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.13:231][604]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.13:711][644]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.13:969][667]LogTemp:Warning: Spawn Bullet
+[2017.02.03-13.49.28:703][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01" FILE="D:/UnReal/Obligatorisk_01/Content/Level_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.02.03-13.49.28:763][  3]LogSavePackage: Save=36.29ms
+[2017.02.03-13.49.28:763][  3]LogSavePackage: Moving 'D:/UnReal/Obligatorisk_01/Saved/Level_01B24B79C945CC45DAAF14EF9FC51444ED.tmp' to 'D:/UnReal/Obligatorisk_01/Content/Level_01.umap'
+[2017.02.03-13.49.28:768][  3]LogSavePackage:Display: Finished SavePackage D:/UnReal/Obligatorisk_01/Content/Level_01.umap
+[2017.02.03-13.49.28:796][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01_BuiltData" FILE="D:/UnReal/Obligatorisk_01/Content/Level_01_BuiltData.uasset" SILENT=true
+[2017.02.03-13.49.28:816][  3]LogSavePackage: Save=17.60ms
+[2017.02.03-13.49.28:816][  3]LogSavePackage: Moving 'D:/UnReal/Obligatorisk_01/Saved/Level_01_BuiltDataDFBF82D04E0FB8F807F1FBAE7B67C597.tmp' to 'D:/UnReal/Obligatorisk_01/Content/Level_01_BuiltData.uasset'
+[2017.02.03-13.49.28:818][  3]LogSavePackage:Display: Finished SavePackage D:/UnReal/Obligatorisk_01/Content/Level_01_BuiltData.uasset
+[2017.02.03-13.49.28:828][  3]LogFileHelpers: Saving map 'Level_01' took 0.782
+[2017.02.03-13.49.35:172][240]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.02.03-13.49.35:235][241]LogTemp:Display: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Obligatorisk01
+
+[2017.02.03-13.49.35:235][241]LogTemp:Display: CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.02.03-13.49.35:235][241]LogTemp:Display: Initial Dir: C:\Program Files (x86)\Epic Games\4.14
+
+[2017.02.03-13.49.35:235][241]LogTemp:Display: Env CWD: C:\Program Files (x86)\Epic Games\4.14\Engine\Binaries\DotNet\IOS
+
+[2017.02.03-13.49.35:236][241]LogTemp:Display: BranchPath = MORGANS-PC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries --- GameBranchPath = MORGANS-PC/C/Program Files (x86)/Epic Games/4.14/Engine/Binaries
+
+[2017.02.03-13.49.35:256][242]LogTemp:Display: IPP ERROR: Application exception: System.IO.DirectoryNotFoundException: Could not find a part of the path 'C:\Users\morga\AppData\Local\Apple Computer\MobileDevice\Provisioning Profiles'.
+
+[2017.02.03-13.49.35:256][242]LogTemp:Display:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+
+[2017.02.03-13.49.35:256][242]LogTemp:Display:    at System.IO.FileSystemEnumerableIterator`1.CommonInit()
+
+[2017.02.03-13.49.35:256][242]LogTemp:Display:    at System.IO.Directory.EnumerateFiles(String path, String searchPattern)
+
+[2017.02.03-13.49.35:256][242]LogTemp:Display:    at iPhonePackager.CodeSignatureBuilder.FindProvisions(String CFBundleIdentifier)
+
+[2017.02.03-13.49.35:257][242]LogTemp:Display:    at iPhonePackager.Program.Main(String[] args)
+
+[2017.02.03-13.50.02:412][632]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT)
+[2017.02.03-13.50.02:412][632]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1)
+[2017.02.03-13.50.02:412][632]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT)
+[2017.02.03-13.50.02:412][632]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1)
+[2017.02.03-13.50.02:412][632]LogTexture:Display: Building textures: ShadowMapTexture2D_16 (G8)
+[2017.02.03-13.50.02:413][632]LogTexture:Display: Building textures: ShadowMapTexture2D_17 (G8)
+[2017.02.03-13.50.02:446][632]Lightmass on MORGANS-PC: 58.0 sec total, 191 ms importing, 31 ms setup, 332 ms photons, 57.4 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 6:42 min total, 522 ms processing.
+[2017.02.03-13.50.02:452][632]LogStaticLightingSystem: Illumination: 7.00 sec (14 ms encoding lightmaps, 16 ms encoding shadowmaps)
+[2017.02.03-13.50.02:452][632]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.02.03-13.50.02:452][632]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.02.03-13.50.03:010][632]DumpUnbuiltLightIteractions
+[2017.02.03-13.50.03:010][632]Lights with unbuilt interactions: 0
+[2017.02.03-13.50.03:010][632]
+[2017.02.03-13.50.03:010][632]Primitives with unbuilt interactions: 0
+[2017.02.03-13.50.03:021][633]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.02.03-13.50.03:021][633]MapCheck: New page: Level_01 - Feb 3, 2017, 3:50:03 PM
+[2017.02.03-13.50.03:094][633]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 72.894ms to complete.
+[2017.02.03-13.50.06:021][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_01_BuiltData" FILE="D:/UnReal/Obligatorisk_01/Content/Level_01_BuiltData.uasset" SILENT=true
+[2017.02.03-13.50.06:045][769]LogSavePackage: Save=15.78ms
+[2017.02.03-13.50.06:045][769]LogSavePackage: Moving 'D:/UnReal/Obligatorisk_01/Saved/Level_01_BuiltDataF594B0CF4317FA3AAF968289D79A8D32.tmp' to 'D:/UnReal/Obligatorisk_01/Content/Level_01_BuiltData.uasset'
+[2017.02.03-13.50.06:047][769]LogSavePackage:Display: Finished SavePackage D:/UnReal/Obligatorisk_01/Content/Level_01_BuiltData.uasset
+[2017.02.03-13.50.07:705][843]Cmd: QUIT_EDITOR
+[2017.02.03-13.50.08:119][843]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.02.03-13.50.08:188][843]LogExit: Preparing to exit.
+[2017.02.03-13.50.08:473][843]LogExit: Editor shut down
+[2017.02.03-13.50.08:473][843]LogExit: Transaction tracking system shut down
+[2017.02.03-13.50.08:605][843]LogObj: Freed 0b from 0 cluster array pools.
+[2017.02.03-13.50.08:605][843]LogExit: Object subsystem successfully closed.
+[2017.02.03-13.50.08:630][843]LogD3D11RHI: Shutdown
+[2017.02.03-13.50.08:630][843]LogD3D11RHI: CleanupD3DDevice
+[2017.02.03-13.50.08:815][843]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.02.03-13.50.08:839][843]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.02.03-13.50.08:839][843]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B20914FE8-4E4A-12E2-6A37-AF9946DC9631%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.14.3-3249277%2B%2B%2BUE4%2BRelease-4.14&UserID=99f0a4ac49acc038954b94b35720365e%7C4dc73cec52a448a4a413b26901258020%7C86bfbc2f-1121-4369-813b-9494f012cce9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.02.03-13.50.08:869][843]LogModuleManager: Shutting down and abandoning module BlueprintGraph (247)
+[2017.02.03-13.50.08:869][843]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (246)
+[2017.02.03-13.50.08:869][843]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (245)
+[2017.02.03-13.50.08:869][843]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (244)
+[2017.02.03-13.50.08:869][843]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (243)
+[2017.02.03-13.50.08:872][843]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (242)
+[2017.02.03-13.50.08:872][843]LogModuleManager: Shutting down and abandoning module CrashTracker (241)
+[2017.02.03-13.50.08:872][843]LogModuleManager: Shutting down and abandoning module WidgetCarousel (240)
+[2017.02.03-13.50.08:872][843]LogModuleManager: Shutting down and abandoning module AddContentDialog (239)
+[2017.02.03-13.50.08:872][843]LogDirectoryWatcher: A directory notification for 'C:/Program Files (x86)/Epic Games/4.14/FeaturePacks/' was aborted.
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module GameplayTags (238)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module EditorWidgets (237)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module CollectionManager (236)
+[2017.02.03-13.50.08:874][843]LogDirectoryWatcher: A directory notification for 'D:/UnReal/Obligatorisk_01/Content/Collections/' was aborted.
+[2017.02.03-13.50.08:874][843]LogDirectoryWatcher: A directory notification for 'D:/UnReal/Obligatorisk_01/Content/Developers/Morgan/Collections/' was aborted.
+[2017.02.03-13.50.08:874][843]LogDirectoryWatcher: A directory notification for 'D:/UnReal/Obligatorisk_01/Saved/Collections/' was aborted.
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module SceneOutliner (235)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module StatsViewer (234)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module FoliageEdit (233)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module LandscapeEditor (232)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (231)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module ActorPickerMode (230)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module GeometryMode (229)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module TextureAlignMode (228)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module BspMode (227)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module HardwareSurvey (226)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (225)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module AutomationWorker (224)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (223)
+[2017.02.03-13.50.08:874][843]LogModuleManager: Shutting down and abandoning module PlacementMode (222)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (221)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (220)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (219)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (218)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (217)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module Media (216)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (215)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (214)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module CharacterAI (213)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module SequenceRecorder (212)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module AudioCapture (211)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module SmartSnapping (210)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module SessionServices (209)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module ViewportSnapping (208)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module ViewportInteraction (207)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module LogVisualizer (206)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (205)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module IntroTutorials (204)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (203)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (202)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (201)
+[2017.02.03-13.50.08:875][843]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (200)
+[2017.02.03-13.50.09:482][843]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (199)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (198)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (197)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module InputBindingEditor (196)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module NiagaraEditor (195)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module MergeActors (194)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module SizeMap (193)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module TreeMap (192)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module ReferenceViewer (191)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module LocalizationService (190)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (189)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module HardwareTargeting (188)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (187)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module UndoHistory (186)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module UserFeedback (185)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module XmlParser (184)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module Blutility (183)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (182)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (181)
+[2017.02.03-13.50.09:483][843]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (180)
+[2017.02.03-13.50.09:484][843]LogModuleManager: Shutting down and abandoning module SettingsEditor (179)
+[2017.02.03-13.50.09:484][843]LogModuleManager: Shutting down and abandoning module ProjectLauncher (178)
+[2017.02.03-13.50.09:484][843]LogModuleManager: Shutting down and abandoning module SessionFrontend (177)
+[2017.02.03-13.50.09:484][843]LogModuleManager: Shutting down and abandoning module ProfilerClient (176)
+[2017.02.03-13.50.09:484][843]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (175)
+[2017.02.03-13.50.09:484][843]LogModuleManager: Shutting down and abandoning module DeviceManager (174)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module AutomationController (173)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module AutomationWindow (172)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module Layers (171)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (170)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module DetailCustomizations (169)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module PackagesDialog (168)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module AnimGraph (167)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module Persona (166)
+[2017.02.03-13.50.09:526][843]LogModuleManager: Shutting down and abandoning module Kismet (165)
+[2017.02.03-13.50.09:538][843]LogModuleManager: Shutting down and abandoning module GraphEditor (164)
+[2017.02.03-13.50.09:538][843]LogModuleManager: Shutting down and abandoning module ClassViewer (163)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module Toolbox (162)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module ModuleUI (161)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module MovieSceneTools (160)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module OutputLog (159)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module GammaUI (158)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module Documentation (157)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module Niagara (156)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (155)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module AnalyticsET (154)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module PortalServices (153)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module PortalRpc (152)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module MessagingRpc (151)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module GameplayDebugger (150)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module AITestSuite (149)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module AIModule (148)
+[2017.02.03-13.50.09:541][843]LogModuleManager: Shutting down and abandoning module ProfilerService (147)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module TaskGraph (146)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module SlateRemote (145)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module SteamVRController (144)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module SteamVR (143)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (142)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (141)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module OculusLibrary (140)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module OculusInput (139)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (138)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (137)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module CableComponent (136)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (135)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (133)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module HTML5Networking (132)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (131)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module GeometryCache (130)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module AlembicLibrary (129)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module AlembicImporter (128)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module SuperSearch (127)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (126)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (125)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module PluginBrowser (124)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (123)
+[2017.02.03-13.50.09:742][843]LogModuleManager: Shutting down and abandoning module EpicSurvey (122)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module DesktopPlatform (121)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (120)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module UObjectPlugin (119)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (118)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (117)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module SourceControl (116)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module GitSourceControl (115)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (114)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (113)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (112)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module MeshPaint (111)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (110)
+[2017.02.03-13.50.09:743][843]LogModuleManager: Shutting down and abandoning module HotReload (109)
+[2017.02.03-13.50.09:743][843]LogDirectoryWatcher: A directory notification for 'D:/UnReal/Obligatorisk_01/Binaries/Win64' was aborted.
+[2017.02.03-13.50.09:744][843]LogModuleManager: Shutting down and abandoning module MainFrame (108)
+[2017.02.03-13.50.09:744][843]LogModuleManager: Shutting down and abandoning module LevelEditor (107)
+[2017.02.03-13.50.09:745][843]LogModuleManager: Shutting down and abandoning module ContentBrowser (106)
+[2017.02.03-13.50.09:747][843]LogModuleManager: Shutting down and abandoning module Paper2DEditor (105)
+[2017.02.03-13.50.09:747][843]LogModuleManager: Shutting down and abandoning module Obligatorisk_01 (104)
+[2017.02.03-13.50.09:747][843]LogModuleManager: Shutting down and abandoning module UdpMessaging (103)
+[2017.02.03-13.50.09:848][843]LogModuleManager: Shutting down and abandoning module TcpMessaging (102)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (101)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module Paper2D (100)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (99)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module MediaAssets (97)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (96)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (95)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module VREditor (94)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (93)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (92)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module FunctionalTesting (91)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (90)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module Sequencer (89)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (88)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module MessageLog (87)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module AssetTools (86)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module UMGEditor (85)
+[2017.02.03-13.50.09:948][843]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2017.02.03-13.50.09:949][843]LogModuleManager: Shutting down and abandoning module SlateReflector (83)
+[2017.02.03-13.50.09:949][843]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2017.02.03-13.50.09:949][843]LogModuleManager: Shutting down and abandoning module EditorStyle (81)
+[2017.02.03-13.50.09:954][843]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (80)
+[2017.02.03-13.50.09:954][843]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (79)
+[2017.02.03-13.50.09:954][843]LogModuleManager: Shutting down and abandoning module XAudio2 (78)
+[2017.02.03-13.50.09:954][843]LogModuleManager: Shutting down and abandoning module Networking (76)
+[2017.02.03-13.50.09:954][843]LogModuleManager: Shutting down and abandoning module Core (75)
+[2017.02.03-13.50.09:954][843]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2017.02.03-13.50.09:954][843]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.02.03-13.50.09:954][843]LogDirectoryWatcher: A directory notification for 'D:/UnReal/Obligatorisk_01/Content/' was aborted.
+[2017.02.03-13.50.09:954][843]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.02.03-13.50.09:954][843]LogModuleManager: Shutting down and abandoning module AssetRegistry (73)
+[2017.02.03-13.50.10:150][843]LogModuleManager: Shutting down and abandoning module KismetCompiler (72)
+[2017.02.03-13.50.10:150][843]LogModuleManager: Shutting down and abandoning module PhysXFormats (71)
+[2017.02.03-13.50.10:150][843]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (70)
+[2017.02.03-13.50.10:150][843]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (69)
+[2017.02.03-13.50.10:150][843]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (68)
+[2017.02.03-13.50.10:151][843]LogModuleManager: Shutting down and abandoning module PropertyEditor (67)
+[2017.02.03-13.50.10:151][843]LogModuleManager: Shutting down and abandoning module MeshUtilities (66)
+[2017.02.03-13.50.10:151][843]LogModuleManager: Shutting down and abandoning module DerivedDataCache (65)
+[2017.02.03-13.50.10:178][843]LogDerivedDataCache: Shutdown
+[2017.02.03-13.50.10:178][843]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (64)
+[2017.02.03-13.50.10:178][843]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (63)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (62)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (61)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (60)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (59)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (58)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (57)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module ImageWrapper (56)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (55)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (54)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (53)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (52)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (51)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (50)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (49)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (48)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (47)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (46)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Messaging (45)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (44)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (43)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (42)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (41)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (40)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (39)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (38)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (37)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (36)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (35)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (34)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (33)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (32)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (31)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (30)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (29)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (28)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (27)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (26)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module TargetPlatform (25)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module InputCore (24)
+[2017.02.03-13.50.10:179][843]LogModuleManager: Shutting down and abandoning module Settings (23)
+[2017.02.03-13.50.10:180][843]LogModuleManager: Shutting down and abandoning module OculusRift (22)
+[2017.02.03-13.50.10:180][843]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (21)
+[2017.02.03-13.50.10:180][843]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (20)
+[2017.02.03-13.50.10:180][843]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2017.02.03-13.50.10:180][843]LogOnline:Display: Unloading online subsystem: NULL
+[2017.02.03-13.50.10:180][843]LogModuleManager: Shutting down and abandoning module SSL (17)
+[2017.02.03-13.50.10:182][843]LogModuleManager: Shutting down and abandoning module HTTP (16)
+[2017.02.03-13.50.10:182][843]LogModuleManager: Shutting down and abandoning module XMPP (15)
+[2017.02.03-13.50.10:182][843]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2017.02.03-13.50.10:182][843]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2017.02.03-13.50.10:182][843]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2017.02.03-13.50.10:182][843]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2017.02.03-13.50.10:184][843]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2017.02.03-13.50.10:185][843]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2017.02.03-13.50.10:188][843]LogExit: Exiting.
+[2017.02.03-13.50.10:208][843]Log file closed, 02/03/17 14:50:10
